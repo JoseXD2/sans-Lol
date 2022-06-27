@@ -1,0 +1,1939 @@
+{
+	"song": {
+		"speed": 3.3,
+		"stage": "nothing",
+		"player1": "bfscared",
+		"player2": "VHS SANS TWO",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"Image Appearance",
+						"Black",
+						"12.42"
+					]
+				]
+			],
+			[
+				774.193548387097,
+				[
+					[
+						"Change Character",
+						"dad",
+						"VHS SANS THREE"
+					]
+				]
+			],
+			[
+				12387.0967741935,
+				[
+					[
+						"Image Appearance",
+						"Blue",
+						".1"
+					]
+				]
+			],
+			[
+				13161.2903225806,
+				[
+					[
+						"Image Appearance",
+						"Blue",
+						".1"
+					]
+				]
+			],
+			[
+				13935.4838709677,
+				[
+					[
+						"Image Appearance",
+						"Blue",
+						".1"
+					]
+				]
+			],
+			[
+				14709.6774193548,
+				[
+					[
+						"Image Appearance",
+						"Blue",
+						".1"
+					]
+				]
+			],
+			[
+				15483.8709677419,
+				[
+					[
+						"Image Appearance",
+						"Blue",
+						".1"
+					]
+				]
+			],
+			[
+				15483.8709677419,
+				[
+					[
+						"Image Appearance",
+						"Blue",
+						".1"
+					]
+				]
+			],
+			[
+				16258.064516129,
+				[
+					[
+						"Image Appearance",
+						"Blue",
+						".1"
+					]
+				]
+			],
+			[
+				16258.064516129,
+				[
+					[
+						"Image Appearance",
+						"Blue",
+						".1"
+					]
+				]
+			],
+			[
+				17032.2580645161,
+				[
+					[
+						"Image Appearance",
+						"Blue",
+						".1"
+					]
+				]
+			],
+			[
+				17032.2580645161,
+				[
+					[
+						"Image Appearance",
+						"Blue",
+						".1"
+					]
+				]
+			],
+			[
+				17806.4516129032,
+				[
+					[
+						"Image Appearance",
+						"Blue",
+						".1"
+					]
+				]
+			],
+			[
+				17806.4516129032,
+				[
+					[
+						"Image Appearance",
+						"Blue",
+						".1"
+					]
+				]
+			],
+			[
+				18580.6451612903,
+				[
+					[
+						"Image Appearance",
+						"Blue",
+						".1"
+					]
+				]
+			],
+			[
+				18580.6451612903,
+				[
+					[
+						"Image Appearance",
+						"Blue",
+						".1"
+					]
+				]
+			],
+			[
+				18580.6451612903,
+				[
+					[
+						"Image Appearance",
+						"Blue",
+						".1"
+					]
+				]
+			],
+			[
+				19354.8387096774,
+				[
+					[
+						"Image Appearance",
+						"Blue",
+						".1"
+					]
+				]
+			],
+			[
+				19354.8387096774,
+				[
+					[
+						"Image Appearance",
+						"Blue",
+						".1"
+					]
+				]
+			],
+			[
+				19354.8387096774,
+				[
+					[
+						"Image Appearance",
+						"Blue",
+						".1"
+					]
+				]
+			],
+			[
+				20129.0322580645,
+				[
+					[
+						"Image Appearance",
+						"Blue",
+						".1"
+					]
+				]
+			],
+			[
+				20129.0322580645,
+				[
+					[
+						"Image Appearance",
+						"Blue",
+						".1"
+					]
+				]
+			],
+			[
+				20129.0322580645,
+				[
+					[
+						"Image Appearance",
+						"Blue",
+						".1"
+					]
+				]
+			],
+			[
+				20903.2258064516,
+				[
+					[
+						"Image Appearance",
+						"Blue",
+						".1"
+					]
+				]
+			],
+			[
+				20903.2258064516,
+				[
+					[
+						"Image Appearance",
+						"Blue",
+						".1"
+					]
+				]
+			],
+			[
+				20903.2258064516,
+				[
+					[
+						"Image Appearance",
+						"Blue",
+						".1"
+					]
+				]
+			],
+			[
+				21387.0967741935,
+				[
+					[
+						"Image Appearance",
+						"Blue",
+						".05"
+					]
+				]
+			],
+			[
+				21483.8709677419,
+				[
+					[
+						"Image Appearance",
+						"Blue",
+						".05"
+					]
+				]
+			],
+			[
+				21580.6451612903,
+				[
+					[
+						"Image Appearance",
+						"Blue",
+						".05"
+					]
+				]
+			],
+			[
+				21677.4193548387,
+				[
+					[
+						"Image Appearance",
+						"Blue",
+						".1"
+					]
+				]
+			],
+			[
+				21677.4193548387,
+				[
+					[
+						"Image Appearance",
+						"Blue",
+						".1"
+					]
+				]
+			],
+			[
+				21677.4193548387,
+				[
+					[
+						"Image Appearance",
+						"Blue",
+						".1"
+					]
+				]
+			],
+			[
+				21677.4193548387,
+				[
+					[
+						"Image Appearance",
+						"Blue",
+						".1"
+					]
+				]
+			],
+			[
+				22451.6129032258,
+				[
+					[
+						"Image Appearance",
+						"Blue",
+						".1"
+					]
+				]
+			],
+			[
+				22451.6129032258,
+				[
+					[
+						"Image Appearance",
+						"Blue",
+						".1"
+					]
+				]
+			],
+			[
+				22451.6129032258,
+				[
+					[
+						"Image Appearance",
+						"Blue",
+						".1"
+					]
+				]
+			],
+			[
+				22451.6129032258,
+				[
+					[
+						"Image Appearance",
+						"Blue",
+						".1"
+					]
+				]
+			],
+			[
+				23225.8064516129,
+				[
+					[
+						"Image Appearance",
+						"Blue",
+						".1"
+					]
+				]
+			],
+			[
+				23225.8064516129,
+				[
+					[
+						"Image Appearance",
+						"Blue",
+						".1"
+					]
+				]
+			],
+			[
+				23225.8064516129,
+				[
+					[
+						"Image Appearance",
+						"Blue",
+						".1"
+					]
+				]
+			],
+			[
+				23225.8064516129,
+				[
+					[
+						"Image Appearance",
+						"Blue",
+						".1"
+					]
+				]
+			],
+			[
+				24000,
+				[
+					[
+						"Image Appearance",
+						"Blue",
+						".1"
+					]
+				]
+			],
+			[
+				24000,
+				[
+					[
+						"Image Appearance",
+						"Blue",
+						".1"
+					]
+				]
+			],
+			[
+				24000,
+				[
+					[
+						"Image Appearance",
+						"Blue",
+						".1"
+					]
+				]
+			],
+			[
+				24000,
+				[
+					[
+						"Image Appearance",
+						"Blue",
+						".1"
+					]
+				]
+			],
+			[
+				24774.1935483871,
+				[
+					[
+						"Image Appearance",
+						"Blue Fade",
+						"0.05"
+					]
+				]
+			],
+			[
+				26322.5806451613,
+				[
+					[
+						"Image Appearance",
+						"Blue Fade",
+						"0.05"
+					]
+				]
+			],
+			[
+				27870.9677419355,
+				[
+					[
+						"Image Appearance",
+						"Blue Fade",
+						"0.05"
+					]
+				]
+			],
+			[
+				29419.3548387097,
+				[
+					[
+						"Image Appearance",
+						"Blue Fade",
+						"0.05"
+					]
+				]
+			],
+			[
+				30967.7419354839,
+				[
+					[
+						"Image Appearance",
+						"Blue Fade",
+						"0.05"
+					]
+				]
+			],
+			[
+				32516.1290322581,
+				[
+					[
+						"Image Appearance",
+						"Blue Fade",
+						"0.05"
+					]
+				]
+			],
+			[
+				34064.5161290323,
+				[
+					[
+						"Image Appearance",
+						"Blue Fade",
+						"0.05"
+					]
+				]
+			],
+			[
+				35612.9032258064,
+				[
+					[
+						"Image Appearance",
+						"Blue",
+						".1"
+					]
+				]
+			],
+			[
+				35612.9032258064,
+				[
+					[
+						"Image Appearance",
+						"Blue",
+						".1"
+					]
+				]
+			],
+			[
+				35612.9032258064,
+				[
+					[
+						"Image Appearance",
+						"Blue",
+						".1"
+					]
+				]
+			],
+			[
+				35612.9032258064,
+				[
+					[
+						"Image Appearance",
+						"Blue",
+						".1"
+					]
+				]
+			],
+			[
+				35612.9032258065,
+				[
+					[
+						"Image Appearance",
+						"Blue Fade",
+						"0.05"
+					]
+				]
+			],
+			[
+				37161.2903225807,
+				[
+					[
+						"Image Appearance",
+						"Red",
+						"3"
+					]
+				]
+			],
+			[
+				39967.7419354839,
+				[
+					[
+						"Change Character",
+						"dad",
+						"VHS SANS FP"
+					],
+					[
+						"Change Character",
+						"bf",
+						"bf none"
+					]
+				]
+			],
+			[
+				40258.064516129,
+				[
+					[
+						"Screen Shake",
+						"1,0.05",
+						""
+					]
+				]
+			],
+			[
+				41032.2580645161,
+				[
+					[
+						"Screen Shake",
+						"1,0.05",
+						""
+					]
+				]
+			],
+			[
+				41806.4516129032,
+				[
+					[
+						"Screen Shake",
+						"1,0.05",
+						""
+					]
+				]
+			],
+			[
+				42580.6451612903,
+				[
+					[
+						"Screen Shake",
+						"1,0.05",
+						""
+					]
+				]
+			],
+			[
+				43354.8387096774,
+				[
+					[
+						"Screen Shake",
+						"1,0.05",
+						""
+					]
+				]
+			],
+			[
+				44129.0322580645,
+				[
+					[
+						"Screen Shake",
+						"1,0.05",
+						""
+					]
+				]
+			],
+			[
+				44903.2258064516,
+				[
+					[
+						"Screen Shake",
+						"1,0.05",
+						""
+					]
+				]
+			],
+			[
+				45677.4193548387,
+				[
+					[
+						"Image Appearance",
+						"Jumpscare",
+						"0.05"
+					]
+				]
+			],
+			[
+				45870.9677419355,
+				[
+					[
+						"Image Appearance",
+						"Jumpscare",
+						"0.05"
+					]
+				]
+			],
+			[
+				46064.5161290323,
+				[
+					[
+						"Image Appearance",
+						"Jumpscare",
+						"0.05"
+					]
+				]
+			],
+			[
+				46258.0645161291,
+				[
+					[
+						"Image Appearance",
+						"Jumpscare",
+						"0.05"
+					]
+				]
+			],
+			[
+				46354.8387096774,
+				[
+					[
+						"Image Appearance",
+						"Jumpscare",
+						"0.05"
+					]
+				]
+			],
+			[
+				52645.1612903226,
+				[
+					[
+						"Screen Shake",
+						"1,0.05",
+						""
+					]
+				]
+			],
+			[
+				53612.9032258065,
+				[
+					[
+						"Screen Shake",
+						"1,0.05",
+						""
+					]
+				]
+			],
+			[
+				54193.5483870968,
+				[
+					[
+						"Screen Shake",
+						"1,0.05",
+						""
+					]
+				]
+			],
+			[
+				55161.2903225807,
+				[
+					[
+						"Screen Shake",
+						"1,0.05",
+						""
+					]
+				]
+			],
+			[
+				55741.935483871,
+				[
+					[
+						"Screen Shake",
+						"1,0.05",
+						""
+					]
+				]
+			],
+			[
+				56709.6774193549,
+				[
+					[
+						"Screen Shake",
+						"1,0.05",
+						""
+					]
+				]
+			],
+			[
+				57290.3225806452,
+				[
+					[
+						"Screen Shake",
+						"1,0.05",
+						""
+					]
+				]
+			],
+			[
+				58258.0645161291,
+				[
+					[
+						"Screen Shake",
+						"1,0.05",
+						""
+					]
+				]
+			],
+			[
+				65032.2580645162,
+				[
+					[
+						"Image Appearance",
+						"Jumpscare",
+						"0.05"
+					]
+				]
+			],
+			[
+				65129.0322580646,
+				[
+					[
+						"Screen Shake",
+						"1,0.05",
+						""
+					]
+				]
+			],
+			[
+				65806.4516129033,
+				[
+					[
+						"Screen Shake",
+						"1,0.05",
+						""
+					]
+				]
+			],
+			[
+				66580.6451612904,
+				[
+					[
+						"Screen Shake",
+						"1,0.05",
+						""
+					]
+				]
+			],
+			[
+				67354.8387096775,
+				[
+					[
+						"Screen Shake",
+						"1,0.05",
+						""
+					]
+				]
+			],
+			[
+				68129.0322580646,
+				[
+					[
+						"Screen Shake",
+						"1,0.05",
+						""
+					]
+				]
+			],
+			[
+				68903.2258064517,
+				[
+					[
+						"Screen Shake",
+						"1,0.05",
+						""
+					]
+				]
+			],
+			[
+				69677.4193548388,
+				[
+					[
+						"Screen Shake",
+						"1,0.05",
+						""
+					]
+				]
+			],
+			[
+				70451.6129032259,
+				[
+					[
+						"Screen Shake",
+						"1,0.05",
+						""
+					]
+				]
+			],
+			[
+				71225.806451613,
+				[
+					[
+						"Image Appearance",
+						"Jumpscare",
+						".05"
+					]
+				]
+			],
+			[
+				74322.5806451614,
+				[
+					[
+						"Screen Shake",
+						"1,0.05",
+						""
+					]
+				]
+			],
+			[
+				75096.7741935485,
+				[
+					[
+						"Screen Shake",
+						"1,0.05",
+						""
+					]
+				]
+			],
+			[
+				75870.9677419356,
+				[
+					[
+						"Image Appearance",
+						"Jumpscare",
+						"0.01"
+					]
+				]
+			],
+			[
+				75967.741935484,
+				[
+					[
+						"Screen Shake",
+						"1,0.05",
+						""
+					]
+				]
+			],
+			[
+				76258.0645161291,
+				[
+					[
+						"Image Appearance",
+						"Jumpscare",
+						"0.01"
+					]
+				]
+			],
+			[
+				76451.6129032259,
+				[
+					[
+						"Image Appearance",
+						"Jumpscare",
+						"0.01"
+					]
+				]
+			],
+			[
+				76548.3870967743,
+				[
+					[
+						"Screen Shake",
+						"1,0.05",
+						""
+					]
+				]
+			],
+			[
+				76645.1612903227,
+				[
+					[
+						"Image Appearance",
+						"Jumpscare",
+						"0.01"
+					]
+				]
+			],
+			[
+				76741.9354838711,
+				[
+					[
+						"Image Appearance",
+						"Jumpscare",
+						"0.01"
+					]
+				]
+			],
+			[
+				76838.7096774194,
+				[
+					[
+						"Image Appearance",
+						"Jumpscare",
+						"0.01"
+					]
+				]
+			],
+			[
+				76935.4838709678,
+				[
+					[
+						"Image Appearance",
+						"Jumpscare",
+						"0.01"
+					]
+				]
+			],
+			[
+				77037.0967741936,
+				[
+					[
+						"Image Appearance",
+						"Jumpscare",
+						"0.01"
+					]
+				]
+			],
+			[
+				77080.6451612904,
+				[
+					[
+						"Image Appearance",
+						"Jumpscare",
+						"0.01"
+					]
+				]
+			],
+			[
+				77133.870967742,
+				[
+					[
+						"Image Appearance",
+						"Jumpscare",
+						"0.01"
+					]
+				]
+			],
+			[
+				77187.0967741936,
+				[
+					[
+						"Image Appearance",
+						"Jumpscare",
+						"0.01"
+					]
+				]
+			],
+			[
+				77235.4838709678,
+				[
+					[
+						"Image Appearance",
+						"Jumpscare",
+						"0.01"
+					]
+				]
+			],
+			[
+				77419.3548387098,
+				[
+					[
+						"Change Character",
+						"dad",
+						"VHS SANS THREE"
+					],
+					[
+						"Image Appearance",
+						"jumpscare",
+						"0.01"
+					],
+					[
+						"Change Character",
+						"bf",
+						"bfscared"
+					],
+					[
+						"Play Animation",
+						"hurt",
+						"bf"
+					]
+				]
+			],
+			[
+				77516.1290322582,
+				[
+					[
+						"Change Character",
+						"bf",
+						"bf half"
+					]
+				]
+			],
+			[
+				89806.4516129033,
+				[
+					[
+						"Image Appearance",
+						"blue",
+						".05"
+					]
+				]
+			],
+			[
+				90193.5483870969,
+				[
+					[
+						"Image Appearance",
+						"blue",
+						".05"
+					]
+				]
+			],
+			[
+				90580.6451612904,
+				[
+					[
+						"Image Appearance",
+						"blue",
+						".05"
+					]
+				]
+			],
+			[
+				90967.741935484,
+				[
+					[
+						"Image Appearance",
+						"blue",
+						".05"
+					]
+				]
+			],
+			[
+				91161.2903225808,
+				[
+					[
+						"Image Appearance",
+						"blue",
+						".05"
+					]
+				]
+			],
+			[
+				91354.8387096775,
+				[
+					[
+						"Image Appearance",
+						"blue",
+						".05"
+					]
+				]
+			],
+			[
+				91741.9354838711,
+				[
+					[
+						"Image Appearance",
+						"Jumpscare",
+						".05"
+					]
+				]
+			],
+			[
+				92129.0322580646,
+				[
+					[
+						"Image Appearance",
+						"blue",
+						".05"
+					]
+				]
+			],
+			[
+				92516.1290322582,
+				[
+					[
+						"Image Appearance",
+						"Jumpscare",
+						".05"
+					]
+				]
+			],
+			[
+				92709.677419355,
+				[
+					[
+						"Image Appearance",
+						"blue",
+						".05"
+					]
+				]
+			],
+			[
+				92903.2258064517,
+				[
+					[
+						"Image Appearance",
+						"blue",
+						".05"
+					]
+				]
+			],
+			[
+				93290.3225806453,
+				[
+					[
+						"Image Appearance",
+						"Jumpscare",
+						".05"
+					]
+				]
+			],
+			[
+				93677.4193548388,
+				[
+					[
+						"Image Appearance",
+						"Jumpscare",
+						".05"
+					]
+				]
+			],
+			[
+				94064.5161290324,
+				[
+					[
+						"Image Appearance",
+						"Jumpscare",
+						".05"
+					]
+				]
+			],
+			[
+				94258.0645161292,
+				[
+					[
+						"Image Appearance",
+						"Jumpscare",
+						".05"
+					]
+				]
+			],
+			[
+				94645.1612903227,
+				[
+					[
+						"Image Appearance",
+						"Red",
+						"1.4"
+					]
+				]
+			],
+			[
+				95709.677419355,
+				[
+					[
+						"Change Character",
+						"dad",
+						"VHS SANS FP"
+					],
+					[
+						"Change Character",
+						"bf",
+						"bf none"
+					]
+				]
+			],
+			[
+				96000.0000000001,
+				[
+					[
+						"Image Appearance",
+						"Jumpscare",
+						".05"
+					]
+				]
+			],
+			[
+				99096.7741935485,
+				[
+					[
+						"Image Appearance",
+						"Jumpscare",
+						".05"
+					]
+				]
+			],
+			[
+				102000,
+				[
+					[
+						"Image Appearance",
+						"Jumpscare",
+						".05"
+					]
+				]
+			],
+			[
+				102096.774193549,
+				[
+					[
+						"Image Appearance",
+						"Jumpscare",
+						".05"
+					]
+				]
+			],
+			[
+				120774.193548387,
+				[
+					[
+						"Image Appearance",
+						"Your",
+						".05"
+					]
+				]
+			],
+			[
+				122322.580645161,
+				[
+					[
+						"Image Appearance",
+						"Fault",
+						".05"
+					]
+				]
+			],
+			[
+				123870.967741936,
+				[
+					[
+						"Image Appearance",
+						"Your",
+						".05"
+					]
+				]
+			],
+			[
+				125419.35483871,
+				[
+					[
+						"Image Appearance",
+						"Fault",
+						".05"
+					]
+				]
+			],
+			[
+				126967.741935484,
+				[
+					[
+						"Image Appearance",
+						"Your",
+						".05"
+					]
+				]
+			],
+			[
+				128516.129032258,
+				[
+					[
+						"Image Appearance",
+						"Fault",
+						".05"
+					]
+				]
+			],
+			[
+				130064.516129032,
+				[
+					[
+						"Image Appearance",
+						"Your",
+						".05"
+					]
+				]
+			],
+			[
+				131612.903225807,
+				[
+					[
+						"Image Appearance",
+						"Fault",
+						".05"
+					]
+				]
+			],
+			[
+				131806.451612903,
+				[
+					[
+						"Image Appearance",
+						"Fault",
+						".05"
+					]
+				]
+			],
+			[
+				132000,
+				[
+					[
+						"Image Appearance",
+						"Fault",
+						".05"
+					]
+				]
+			],
+			[
+				132193.548387097,
+				[
+					[
+						"Image Appearance",
+						"Fault",
+						".05"
+					]
+				]
+			],
+			[
+				132290.322580645,
+				[
+					[
+						"Image Appearance",
+						"Fault",
+						".05"
+					]
+				]
+			],
+			[
+				132387.096774194,
+				[
+					[
+						"Image Appearance",
+						"Fault",
+						".05"
+					]
+				]
+			],
+			[
+				132483.870967742,
+				[
+					[
+						"Image Appearance",
+						"Fault",
+						".05"
+					]
+				]
+			],
+			[
+				132580.645161291,
+				[
+					[
+						"Image Appearance",
+						"Blue",
+						".05"
+					]
+				]
+			],
+			[
+				132677.419354839,
+				[
+					[
+						"Image Appearance",
+						"Blue",
+						".05"
+					]
+				]
+			],
+			[
+				132774.193548387,
+				[
+					[
+						"Image Appearance",
+						"Blue",
+						".05"
+					]
+				]
+			],
+			[
+				133161.290322581,
+				[
+					[
+						"Change Character",
+						"bf",
+						"bf half"
+					],
+					[
+						"Change Character",
+						"dad",
+						"VHS SANS THREE"
+					],
+					[
+						"Image Appearance",
+						"Jumpscare",
+						"0.01"
+					]
+				]
+			],
+			[
+				156387.096774194,
+				[
+					[
+						"Image Appearance",
+						"Jumpscare",
+						".05"
+					]
+				]
+			],
+			[
+				156677.419354839,
+				[
+					[
+						"Image Appearance",
+						"Jumpscare",
+						".05"
+					]
+				]
+			],
+			[
+				156967.741935484,
+				[
+					[
+						"Image Appearance",
+						"Jumpscare",
+						".05"
+					]
+				]
+			],
+			[
+				157258.064516129,
+				[
+					[
+						"Image Appearance",
+						"Jumpscare",
+						".05"
+					]
+				]
+			],
+			[
+				157451.612903226,
+				[
+					[
+						"Image Appearance",
+						"Jumpscare",
+						".05"
+					]
+				]
+			],
+			[
+				157645.161290323,
+				[
+					[
+						"Image Appearance",
+						"Jumpscare",
+						".05"
+					]
+				]
+			],
+			[
+				157838.709677419,
+				[
+					[
+						"Change Character",
+						"dad",
+						"VHS SANS FP"
+					],
+					[
+						"Change Character",
+						"bf",
+						"bf none"
+					]
+				]
+			],
+			[
+				157935.483870968,
+				[
+					[
+						"Image Appearance",
+						"Blue Fade",
+						".05"
+					]
+				]
+			],
+			[
+				158709.677419355,
+				[
+					[
+						"Image Appearance",
+						"Blue Fade",
+						".05"
+					]
+				]
+			],
+			[
+				159483.870967742,
+				[
+					[
+						"Image Appearance",
+						"Blue Fade",
+						".05"
+					]
+				]
+			],
+			[
+				160258.064516129,
+				[
+					[
+						"Image Appearance",
+						"Blue Fade",
+						".05"
+					]
+				]
+			],
+			[
+				161032.258064516,
+				[
+					[
+						"Image Appearance",
+						"Blue Fade",
+						".05"
+					]
+				]
+			],
+			[
+				161806.451612903,
+				[
+					[
+						"Image Appearance",
+						"Blue Fade",
+						".05"
+					]
+				]
+			],
+			[
+				162580.64516129,
+				[
+					[
+						"Image Appearance",
+						"Blue Fade",
+						".05"
+					]
+				]
+			],
+			[
+				163354.838709677,
+				[
+					[
+						"Image Appearance",
+						"Blue Fade",
+						".05"
+					]
+				]
+			],
+			[
+				164129.032258064,
+				[
+					[
+						"Image Appearance",
+						"Blue Fade",
+						".05"
+					]
+				]
+			],
+			[
+				164903.225806452,
+				[
+					[
+						"Image Appearance",
+						"Blue Fade",
+						".05"
+					]
+				]
+			],
+			[
+				165677.419354839,
+				[
+					[
+						"Image Appearance",
+						"Blue Fade",
+						".05"
+					]
+				]
+			],
+			[
+				166451.612903226,
+				[
+					[
+						"Image Appearance",
+						"Blue Fade",
+						".05"
+					]
+				]
+			],
+			[
+				167322.580645161,
+				[
+					[
+						"Image Appearance",
+						"Blue Fade",
+						".05"
+					]
+				]
+			],
+			[
+				168096.774193548,
+				[
+					[
+						"Image Appearance",
+						"Blue Fade",
+						".05"
+					]
+				]
+			],
+			[
+				168967.741935484,
+				[
+					[
+						"Image Appearance",
+						"Blue Fade",
+						".05"
+					]
+				]
+			],
+			[
+				169838.709677419,
+				[
+					[
+						"Image Appearance",
+						"Blue Fade",
+						".05"
+					]
+				]
+			],
+			[
+				170709.677419355,
+				[
+					[
+						"Image Appearance",
+						"Blue Fade",
+						".05"
+					]
+				]
+			],
+			[
+				171483.870967742,
+				[
+					[
+						"Image Appearance",
+						"Blue Fade",
+						".05"
+					]
+				]
+			],
+			[
+				172258.064516129,
+				[
+					[
+						"Image Appearance",
+						"Blue Fade",
+						".05"
+					]
+				]
+			],
+			[
+				173129.032258064,
+				[
+					[
+						"Image Appearance",
+						"Blue Fade",
+						".05"
+					]
+				]
+			],
+			[
+				174000,
+				[
+					[
+						"Image Appearance",
+						"Blue Fade",
+						".05"
+					]
+				]
+			],
+			[
+				174870.967741935,
+				[
+					[
+						"Image Appearance",
+						"Blue Fade",
+						".05"
+					]
+				]
+			],
+			[
+				175741.935483871,
+				[
+					[
+						"Image Appearance",
+						"Blue Fade",
+						".05"
+					]
+				]
+			],
+			[
+				176709.677419355,
+				[
+					[
+						"Image Appearance",
+						"Blue Fade",
+						".05"
+					]
+				]
+			],
+			[
+				177677.419354839,
+				[
+					[
+						"Image Appearance",
+						"Blue Fade",
+						".05"
+					]
+				]
+			],
+			[
+				178548.387096774,
+				[
+					[
+						"Image Appearance",
+						"Blue Fade",
+						".05"
+					]
+				]
+			],
+			[
+				179516.129032258,
+				[
+					[
+						"Image Appearance",
+						"Blue Fade",
+						".05"
+					]
+				]
+			],
+			[
+				180387.096774193,
+				[
+					[
+						"Image Appearance",
+						"Blue Fade",
+						".05"
+					]
+				]
+			],
+			[
+				181354.838709677,
+				[
+					[
+						"Image Appearance",
+						"Blue Fade",
+						".05"
+					]
+				]
+			],
+			[
+				182322.580645161,
+				[
+					[
+						"Image Appearance",
+						"Blue Fade",
+						".05"
+					]
+				]
+			],
+			[
+				183387.096774193,
+				[
+					[
+						"Image Appearance",
+						"Blue Fade",
+						".05"
+					]
+				]
+			],
+			[
+				184258.064516129,
+				[
+					[
+						"Image Appearance",
+						"Blue Fade",
+						".05"
+					]
+				]
+			],
+			[
+				184838.709677419,
+				[
+					[
+						"Image Appearance",
+						"Blue Fade",
+						".05"
+					]
+				]
+			],
+			[
+				185032.258064516,
+				[
+					[
+						"Image Appearance",
+						"Jumpscare",
+						".05"
+					]
+				]
+			],
+			[
+				202064.516129032,
+				[
+					[
+						"Image Appearance",
+						"Black",
+						"1"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"validScore": false,
+		"gfVersion": "gf none",
+		"bpm": 155,
+		"arrowSkin": "",
+		"needsVoices": false,
+		"song": "Inner Torment"
+	}
+}

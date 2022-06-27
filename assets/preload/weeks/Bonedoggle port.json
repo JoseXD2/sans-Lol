@@ -1,0 +1,40 @@
+{
+	"storyName": "Skyway Octane",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "week1",
+	"startUnlocked": false,
+	"weekCharacters": [
+		"",
+		"?",
+		""
+	],
+	"songs": [
+		[
+			"bonedoggle",
+			"sans-and-papyrus",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"sixbones",
+			"sixbones",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "Custom Week"
+}

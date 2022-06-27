@@ -1,0 +1,1859 @@
+{
+	"song": {
+		"speed": 3.3,
+		"stage": "stage",
+		"player1": "bf black",
+		"player2": "VHS SANS",
+		"player3": null,
+		"events": [
+			[
+				11034.4827586207,
+				[
+					[
+						"Change Character",
+						"dad",
+						"VHS SANS TWO"
+					]
+				]
+			],
+			[
+				17241.3793103448,
+				[
+					[
+						"Screen Shake",
+						".7, 0.01",
+						""
+					]
+				]
+			],
+			[
+				18620.6896551724,
+				[
+					[
+						"Screen Shake",
+						".7, 0.01",
+						""
+					]
+				]
+			],
+			[
+				20000,
+				[
+					[
+						"Screen Shake",
+						".7, 0.01",
+						""
+					]
+				]
+			],
+			[
+				21379.3103448276,
+				[
+					[
+						"Screen Shake",
+						".7, 0.01",
+						""
+					]
+				]
+			],
+			[
+				22068.9655172414,
+				[
+					[
+						"Image Appearance",
+						"Your",
+						".3"
+					]
+				]
+			],
+			[
+				22586.2068965517,
+				[
+					[
+						"Image Appearance",
+						"Your",
+						".3"
+					]
+				]
+			],
+			[
+				23103.4482758621,
+				[
+					[
+						"Image Appearance",
+						"Your",
+						".05"
+					]
+				]
+			],
+			[
+				23275.8620689655,
+				[
+					[
+						"Image Appearance",
+						"Your",
+						".05"
+					]
+				]
+			],
+			[
+				23448.275862069,
+				[
+					[
+						"Image Appearance",
+						"Your",
+						".05"
+					]
+				]
+			],
+			[
+				24224.1379310345,
+				[
+					[
+						"Image Appearance",
+						"Fault",
+						".7"
+					]
+				]
+			],
+			[
+				24827.5862068966,
+				[
+					[
+						"Image Appearance",
+						"Your",
+						".3"
+					]
+				]
+			],
+			[
+				25431.0344827586,
+				[
+					[
+						"Image Appearance",
+						"Your",
+						".3"
+					]
+				]
+			],
+			[
+				25862.0689655173,
+				[
+					[
+						"Image Appearance",
+						"Your",
+						".05"
+					]
+				]
+			],
+			[
+				26034.4827586207,
+				[
+					[
+						"Image Appearance",
+						"Your",
+						".05"
+					]
+				]
+			],
+			[
+				26206.8965517241,
+				[
+					[
+						"Image Appearance",
+						"Your",
+						".5"
+					]
+				]
+			],
+			[
+				26982.7586206897,
+				[
+					[
+						"Image Appearance",
+						"Fault",
+						"1"
+					]
+				]
+			],
+			[
+				27586.2068965517,
+				[
+					[
+						"Image Appearance",
+						"Your",
+						".3"
+					]
+				]
+			],
+			[
+				28189.6551724138,
+				[
+					[
+						"Image Appearance",
+						"Your",
+						".3"
+					]
+				]
+			],
+			[
+				28620.6896551724,
+				[
+					[
+						"Image Appearance",
+						"Your",
+						".05"
+					]
+				]
+			],
+			[
+				28793.1034482759,
+				[
+					[
+						"Image Appearance",
+						"Your",
+						".05"
+					]
+				]
+			],
+			[
+				28965.5172413793,
+				[
+					[
+						"Image Appearance",
+						"Your",
+						".5"
+					]
+				]
+			],
+			[
+				29741.3793103448,
+				[
+					[
+						"Image Appearance",
+						"Fault",
+						"1"
+					]
+				]
+			],
+			[
+				30344.8275862069,
+				[
+					[
+						"Image Appearance",
+						"Your",
+						".3"
+					]
+				]
+			],
+			[
+				30948.275862069,
+				[
+					[
+						"Image Appearance",
+						"Your",
+						".3"
+					]
+				]
+			],
+			[
+				31379.3103448276,
+				[
+					[
+						"Image Appearance",
+						"Your",
+						".05"
+					]
+				]
+			],
+			[
+				31551.724137931,
+				[
+					[
+						"Image Appearance",
+						"Your",
+						".05"
+					]
+				]
+			],
+			[
+				31724.1379310345,
+				[
+					[
+						"Image Appearance",
+						"Your",
+						".5"
+					]
+				]
+			],
+			[
+				32500,
+				[
+					[
+						"Image Appearance",
+						"Fault",
+						"1"
+					]
+				]
+			],
+			[
+				35862.0689655173,
+				[
+					[
+						"Image Appearance",
+						"BEEP",
+						"0.01"
+					]
+				]
+			],
+			[
+				36551.724137931,
+				[
+					[
+						"Image Appearance",
+						"BEEP",
+						"0.01"
+					]
+				]
+			],
+			[
+				36896.5517241379,
+				[
+					[
+						"Image Appearance",
+						"BEEP",
+						"0.01"
+					]
+				]
+			],
+			[
+				37068.9655172414,
+				[
+					[
+						"Image Appearance",
+						"BEEP",
+						"0.01"
+					]
+				]
+			],
+			[
+				37241.3793103448,
+				[
+					[
+						"Image Appearance",
+						"BEEP",
+						"0.01"
+					]
+				]
+			],
+			[
+				37931.0344827586,
+				[
+					[
+						"Image Appearance",
+						"BEEP",
+						"0.01"
+					]
+				]
+			],
+			[
+				38275.8620689655,
+				[
+					[
+						"Image Appearance",
+						"BEEP",
+						"0.01"
+					]
+				]
+			],
+			[
+				38448.275862069,
+				[
+					[
+						"Image Appearance",
+						"BEEP",
+						"0.01"
+					]
+				]
+			],
+			[
+				38620.6896551724,
+				[
+					[
+						"Screen Shake",
+						".08, .05",
+						""
+					]
+				]
+			],
+			[
+				51034.4827586207,
+				[
+					[
+						"Screen Shake",
+						".08, .05",
+						""
+					]
+				]
+			],
+			[
+				52413.7931034483,
+				[
+					[
+						"Screen Shake",
+						".08, .05",
+						""
+					]
+				]
+			],
+			[
+				53793.1034482759,
+				[
+					[
+						"Screen Shake",
+						".08, .05",
+						""
+					]
+				]
+			],
+			[
+				55172.4137931035,
+				[
+					[
+						"Screen Shake",
+						".08, .05",
+						""
+					]
+				]
+			],
+			[
+				56551.7241379311,
+				[
+					[
+						"Screen Shake",
+						".08, .05",
+						""
+					]
+				]
+			],
+			[
+				57931.0344827586,
+				[
+					[
+						"Screen Shake",
+						".08, .05",
+						""
+					]
+				]
+			],
+			[
+				59310.3448275862,
+				[
+					[
+						"Screen Shake",
+						".08, .05",
+						""
+					]
+				]
+			],
+			[
+				60689.6551724138,
+				[
+					[
+						"Screen Shake",
+						".08, .05",
+						""
+					]
+				]
+			],
+			[
+				64827.5862068966,
+				[
+					[
+						"Image Appearance",
+						"BEEP",
+						"0.01"
+					]
+				]
+			],
+			[
+				65517.2413793104,
+				[
+					[
+						"Image Appearance",
+						"BEEP",
+						"0.01"
+					]
+				]
+			],
+			[
+				65862.0689655173,
+				[
+					[
+						"Image Appearance",
+						"BEEP",
+						"0.01"
+					]
+				]
+			],
+			[
+				66034.4827586207,
+				[
+					[
+						"Image Appearance",
+						"BEEP",
+						"0.01"
+					]
+				]
+			],
+			[
+				66206.8965517242,
+				[
+					[
+						"Image Appearance",
+						"BEEP",
+						"0.01"
+					]
+				]
+			],
+			[
+				66896.551724138,
+				[
+					[
+						"Image Appearance",
+						"BEEP",
+						"0.01"
+					]
+				]
+			],
+			[
+				67241.3793103449,
+				[
+					[
+						"Image Appearance",
+						"BEEP",
+						"0.01"
+					]
+				]
+			],
+			[
+				67413.7931034483,
+				[
+					[
+						"Image Appearance",
+						"BEEP",
+						"0.01"
+					]
+				]
+			],
+			[
+				67586.2068965517,
+				[
+					[
+						"Screen Shake",
+						".08, .05",
+						""
+					]
+				]
+			],
+			[
+				93793.1034482758,
+				[
+					[
+						"Image Appearance",
+						"BEEP",
+						"0.01"
+					]
+				]
+			],
+			[
+				94482.7586206896,
+				[
+					[
+						"Image Appearance",
+						"BEEP",
+						"0.01"
+					]
+				]
+			],
+			[
+				94827.5862068964,
+				[
+					[
+						"Image Appearance",
+						"BEEP",
+						"0.01"
+					]
+				]
+			],
+			[
+				94999.9999999999,
+				[
+					[
+						"Image Appearance",
+						"BEEP",
+						"0.01"
+					]
+				]
+			],
+			[
+				95172.4137931033,
+				[
+					[
+						"Image Appearance",
+						"BEEP",
+						"0.01"
+					]
+				]
+			],
+			[
+				95862.0689655171,
+				[
+					[
+						"Image Appearance",
+						"BEEP",
+						"0.01"
+					]
+				]
+			],
+			[
+				96206.896551724,
+				[
+					[
+						"Image Appearance",
+						"BEEP",
+						"0.01"
+					]
+				]
+			],
+			[
+				96379.3103448275,
+				[
+					[
+						"Image Appearance",
+						"BEEP",
+						"0.01"
+					]
+				]
+			],
+			[
+				96551.7241379309,
+				[
+					[
+						"Screen Shake",
+						".08, .05",
+						""
+					]
+				]
+			],
+			[
+				139310.344827586,
+				[
+					[
+						"Image Appearance",
+						"Blue fade",
+						"0.01"
+					]
+				]
+			],
+			[
+				140000,
+				[
+					[
+						"Image Appearance",
+						"Blue fade",
+						"0.01"
+					]
+				]
+			],
+			[
+				140344.827586207,
+				[
+					[
+						"Image Appearance",
+						"Blue fade",
+						"0.01"
+					]
+				]
+			],
+			[
+				140517.24137931,
+				[
+					[
+						"Image Appearance",
+						"Blue fade",
+						"0.01"
+					]
+				]
+			],
+			[
+				140689.655172414,
+				[
+					[
+						"Image Appearance",
+						"Blue fade",
+						"0.01"
+					]
+				]
+			],
+			[
+				141379.310344827,
+				[
+					[
+						"Image Appearance",
+						"Blue fade",
+						"0.01"
+					]
+				]
+			],
+			[
+				141724.137931034,
+				[
+					[
+						"Image Appearance",
+						"Blue fade",
+						"0.01"
+					]
+				]
+			],
+			[
+				141896.551724138,
+				[
+					[
+						"Image Appearance",
+						"Blue fade",
+						"0.01"
+					]
+				]
+			],
+			[
+				142068.965517241,
+				[
+					[
+						"Screen Shake",
+						".08, .05",
+						""
+					]
+				]
+			],
+			[
+				143448.275862069,
+				[
+					[
+						"Image Appearance",
+						"Your",
+						".4"
+					]
+				]
+			],
+			[
+				144137.931034483,
+				[
+					[
+						"Image Appearance",
+						"Fault",
+						".4"
+					]
+				]
+			],
+			[
+				144827.586206896,
+				[
+					[
+						"Image Appearance",
+						"Your",
+						".4"
+					]
+				]
+			],
+			[
+				145517.24137931,
+				[
+					[
+						"Image Appearance",
+						"Fault",
+						".4"
+					]
+				]
+			],
+			[
+				146206.896551724,
+				[
+					[
+						"Image Appearance",
+						"Your",
+						".4"
+					]
+				]
+			],
+			[
+				146896.551724138,
+				[
+					[
+						"Image Appearance",
+						"Fault",
+						".4"
+					]
+				]
+			],
+			[
+				147586.206896552,
+				[
+					[
+						"Image Appearance",
+						"Your",
+						".4"
+					]
+				]
+			],
+			[
+				148275.862068965,
+				[
+					[
+						"Image Appearance",
+						"Fault",
+						".4"
+					]
+				]
+			],
+			[
+				148965.517241379,
+				[
+					[
+						"Image Appearance",
+						"Your",
+						".4"
+					]
+				]
+			],
+			[
+				149655.172413793,
+				[
+					[
+						"Image Appearance",
+						"Fault",
+						".4"
+					]
+				]
+			],
+			[
+				150344.827586207,
+				[
+					[
+						"Image Appearance",
+						"Your",
+						".4"
+					]
+				]
+			],
+			[
+				151034.482758621,
+				[
+					[
+						"Image Appearance",
+						"Fault",
+						".4"
+					]
+				]
+			],
+			[
+				151724.137931034,
+				[
+					[
+						"Image Appearance",
+						"Your",
+						".4"
+					]
+				]
+			],
+			[
+				152413.793103448,
+				[
+					[
+						"Image Appearance",
+						"Fault",
+						".4"
+					]
+				]
+			],
+			[
+				153103.448275862,
+				[
+					[
+						"Image Appearance",
+						"Your",
+						".4"
+					]
+				]
+			],
+			[
+				153793.103448276,
+				[
+					[
+						"Image Appearance",
+						"Fault",
+						".4"
+					]
+				]
+			],
+			[
+				168275.862068965,
+				[
+					[
+						"Image Appearance",
+						"BEEP",
+						"0.01"
+					]
+				]
+			],
+			[
+				168965.517241379,
+				[
+					[
+						"Image Appearance",
+						"BEEP",
+						"0.01"
+					]
+				]
+			],
+			[
+				169310.344827586,
+				[
+					[
+						"Image Appearance",
+						"BEEP",
+						"0.01"
+					]
+				]
+			],
+			[
+				169482.75862069,
+				[
+					[
+						"Image Appearance",
+						"BEEP",
+						"0.01"
+					]
+				]
+			],
+			[
+				169655.172413793,
+				[
+					[
+						"Image Appearance",
+						"BEEP",
+						"0.01"
+					]
+				]
+			],
+			[
+				170344.827586207,
+				[
+					[
+						"Image Appearance",
+						"BEEP",
+						"0.01"
+					]
+				]
+			],
+			[
+				170689.655172414,
+				[
+					[
+						"Image Appearance",
+						"BEEP",
+						"0.01"
+					]
+				]
+			],
+			[
+				170862.068965517,
+				[
+					[
+						"Image Appearance",
+						"BEEP",
+						"0.01"
+					]
+				]
+			],
+			[
+				177241.379310345,
+				[
+					[
+						"Screen Shake",
+						".7, .06",
+						".4"
+					]
+				]
+			],
+			[
+				178620.689655172,
+				[
+					[
+						"Screen Shake",
+						".7, .06",
+						".4"
+					]
+				]
+			],
+			[
+				180000,
+				[
+					[
+						"Screen Shake",
+						".7, .06",
+						".4"
+					]
+				]
+			],
+			[
+				181379.310344828,
+				[
+					[
+						"Screen Shake",
+						".7, .06",
+						".4"
+					]
+				]
+			],
+			[
+				182068.965517241,
+				[
+					[
+						"Image Appearance",
+						"Your",
+						".4"
+					]
+				]
+			],
+			[
+				182758.620689655,
+				[
+					[
+						"Image Appearance",
+						"Fault",
+						".4"
+					]
+				]
+			],
+			[
+				183448.275862069,
+				[
+					[
+						"Image Appearance",
+						"Your",
+						".4"
+					]
+				]
+			],
+			[
+				184137.931034483,
+				[
+					[
+						"Image Appearance",
+						"Fault",
+						".4"
+					]
+				]
+			],
+			[
+				184827.586206897,
+				[
+					[
+						"Image Appearance",
+						"Your",
+						".05"
+					]
+				]
+			],
+			[
+				185344.827586207,
+				[
+					[
+						"Image Appearance",
+						"Your",
+						".05"
+					]
+				]
+			],
+			[
+				185948.275862069,
+				[
+					[
+						"Image Appearance",
+						"Your",
+						".05"
+					]
+				]
+			],
+			[
+				186206.896551724,
+				[
+					[
+						"Image Appearance",
+						"Your",
+						".05"
+					]
+				]
+			],
+			[
+				186896.551724138,
+				[
+					[
+						"Image Appearance",
+						"Fault",
+						".4"
+					]
+				]
+			],
+			[
+				187586.206896552,
+				[
+					[
+						"Image Appearance",
+						"Your",
+						".4"
+					]
+				]
+			],
+			[
+				188275.862068966,
+				[
+					[
+						"Image Appearance",
+						"Fault",
+						".4"
+					]
+				]
+			],
+			[
+				188965.517241379,
+				[
+					[
+						"Image Appearance",
+						"Your",
+						".4"
+					]
+				]
+			],
+			[
+				189655.172413793,
+				[
+					[
+						"Image Appearance",
+						"Fault",
+						".4"
+					]
+				]
+			],
+			[
+				190344.827586207,
+				[
+					[
+						"Image Appearance",
+						"Your",
+						".05"
+					]
+				]
+			],
+			[
+				190948.275862069,
+				[
+					[
+						"Image Appearance",
+						"Your",
+						".05"
+					]
+				]
+			],
+			[
+				191465.517241379,
+				[
+					[
+						"Image Appearance",
+						"Your",
+						".05"
+					]
+				]
+			],
+			[
+				191724.137931035,
+				[
+					[
+						"Image Appearance",
+						"Your",
+						".05"
+					]
+				]
+			],
+			[
+				192413.793103448,
+				[
+					[
+						"Image Appearance",
+						"Fault",
+						".4"
+					]
+				]
+			],
+			[
+				193103.448275862,
+				[
+					[
+						"Image Appearance",
+						"Your",
+						".4"
+					]
+				]
+			],
+			[
+				193793.103448276,
+				[
+					[
+						"Image Appearance",
+						"Fault",
+						".4"
+					]
+				]
+			],
+			[
+				194482.75862069,
+				[
+					[
+						"Image Appearance",
+						"Your",
+						".4"
+					]
+				]
+			],
+			[
+				195172.413793104,
+				[
+					[
+						"Image Appearance",
+						"Fault",
+						".4"
+					]
+				]
+			],
+			[
+				195862.068965517,
+				[
+					[
+						"Image Appearance",
+						"Your",
+						".4"
+					]
+				]
+			],
+			[
+				196551.724137931,
+				[
+					[
+						"Image Appearance",
+						"Fault",
+						".4"
+					]
+				]
+			],
+			[
+				197241.379310345,
+				[
+					[
+						"Image Appearance",
+						"Your",
+						".4"
+					]
+				]
+			],
+			[
+				197931.034482759,
+				[
+					[
+						"Image Appearance",
+						"Fault",
+						".4"
+					]
+				]
+			],
+			[
+				198620.689655173,
+				[
+					[
+						"Image Appearance",
+						"Your",
+						".4"
+					]
+				]
+			],
+			[
+				199310.344827586,
+				[
+					[
+						"Image Appearance",
+						"Fault",
+						".4"
+					]
+				]
+			],
+			[
+				200000,
+				[
+					[
+						"Image Appearance",
+						"Your",
+						".4"
+					]
+				]
+			],
+			[
+				200689.655172414,
+				[
+					[
+						"Image Appearance",
+						"Fault",
+						".4"
+					]
+				]
+			],
+			[
+				201379.310344828,
+				[
+					[
+						"Image Appearance",
+						"Your",
+						".4"
+					]
+				]
+			],
+			[
+				202068.965517242,
+				[
+					[
+						"Image Appearance",
+						"Fault",
+						".4"
+					]
+				]
+			],
+			[
+				202758.620689655,
+				[
+					[
+						"Image Appearance",
+						"Your",
+						".4"
+					]
+				]
+			],
+			[
+				203448.275862069,
+				[
+					[
+						"Image Appearance",
+						"Fault",
+						".4"
+					]
+				]
+			],
+			[
+				204137.931034483,
+				[
+					[
+						"Image Appearance",
+						"Your",
+						".4"
+					]
+				]
+			],
+			[
+				204827.586206897,
+				[
+					[
+						"Image Appearance",
+						"Fault",
+						".4"
+					]
+				]
+			],
+			[
+				205517.24137931,
+				[
+					[
+						"Image Appearance",
+						"Your",
+						".4"
+					]
+				]
+			],
+			[
+				206206.896551724,
+				[
+					[
+						"Image Appearance",
+						"Fault",
+						".4"
+					]
+				]
+			],
+			[
+				206896.551724138,
+				[
+					[
+						"Image Appearance",
+						"Your",
+						".4"
+					]
+				]
+			],
+			[
+				207586.206896552,
+				[
+					[
+						"Image Appearance",
+						"Fault",
+						".4"
+					]
+				]
+			],
+			[
+				208275.862068966,
+				[
+					[
+						"Image Appearance",
+						"Your",
+						".4"
+					]
+				]
+			],
+			[
+				208965.517241379,
+				[
+					[
+						"Image Appearance",
+						"Fault",
+						".4"
+					]
+				]
+			],
+			[
+				209655.172413793,
+				[
+					[
+						"Image Appearance",
+						"Your",
+						".4"
+					]
+				]
+			],
+			[
+				210344.827586207,
+				[
+					[
+						"Image Appearance",
+						"Fault",
+						".4"
+					]
+				]
+			],
+			[
+				211034.482758621,
+				[
+					[
+						"Image Appearance",
+						"Your",
+						".4"
+					]
+				]
+			],
+			[
+				211724.137931035,
+				[
+					[
+						"Image Appearance",
+						"Fault",
+						".4"
+					]
+				]
+			],
+			[
+				212413.793103448,
+				[
+					[
+						"Image Appearance",
+						"Your",
+						"0.4"
+					],
+					[
+						"Change Scroll Speed",
+						"1",
+						"0"
+					]
+				]
+			],
+			[
+				213103.448275862,
+				[
+					[
+						"Image Appearance",
+						"Fault",
+						".4"
+					]
+				]
+			],
+			[
+				213793.103448276,
+				[
+					[
+						"Image Appearance",
+						"Your",
+						"0.4"
+					],
+					[
+						"",
+						"",
+						""
+					]
+				]
+			],
+			[
+				214482.75862069,
+				[
+					[
+						"Image Appearance",
+						"Fault",
+						".4"
+					]
+				]
+			],
+			[
+				215086.206896552,
+				[
+					[
+						"Image Appearance",
+						"Your",
+						".4"
+					]
+				]
+			],
+			[
+				215775.862068966,
+				[
+					[
+						"Image Appearance",
+						"Fault",
+						".4"
+					]
+				]
+			],
+			[
+				216379.310344828,
+				[
+					[
+						"Image Appearance",
+						"Your",
+						".4"
+					]
+				]
+			],
+			[
+				217068.965517242,
+				[
+					[
+						"Image Appearance",
+						"Fault",
+						".4"
+					]
+				]
+			],
+			[
+				217672.413793104,
+				[
+					[
+						"Image Appearance",
+						"Your",
+						".4"
+					]
+				]
+			],
+			[
+				218362.068965517,
+				[
+					[
+						"Image Appearance",
+						"Fault",
+						".4"
+					]
+				]
+			],
+			[
+				218965.51724138,
+				[
+					[
+						"Image Appearance",
+						"Your",
+						".4"
+					]
+				]
+			],
+			[
+				219568.965517242,
+				[
+					[
+						"Image Appearance",
+						"Fault",
+						".4"
+					]
+				]
+			],
+			[
+				220258.620689655,
+				[
+					[
+						"Image Appearance",
+						"Your",
+						".4"
+					]
+				]
+			],
+			[
+				220775.862068966,
+				[
+					[
+						"Image Appearance",
+						"Fault",
+						"0.4"
+					]
+				]
+			],
+			[
+				221465.51724138,
+				[
+					[
+						"Image Appearance",
+						"Your",
+						".4"
+					]
+				]
+			],
+			[
+				221982.75862069,
+				[
+					[
+						"Image Appearance",
+						"Fault",
+						".4"
+					]
+				]
+			],
+			[
+				222672.413793104,
+				[
+					[
+						"Image Appearance",
+						"Your",
+						".4"
+					]
+				]
+			],
+			[
+				223189.655172414,
+				[
+					[
+						"Image Appearance",
+						"Fault",
+						".4"
+					]
+				]
+			],
+			[
+				223879.310344828,
+				[
+					[
+						"Image Appearance",
+						"Your",
+						".4"
+					]
+				]
+			],
+			[
+				224482.75862069,
+				[
+					[
+						"Image Appearance",
+						"Fault",
+						".4"
+					]
+				]
+			],
+			[
+				225000,
+				[
+					[
+						"Image Appearance",
+						"Your",
+						".4"
+					]
+				]
+			],
+			[
+				225603.448275862,
+				[
+					[
+						"Image Appearance",
+						"Fault",
+						".4"
+					]
+				]
+			],
+			[
+				226034.482758621,
+				[
+					[
+						"Image Appearance",
+						"Your",
+						".4"
+					]
+				]
+			],
+			[
+				226724.137931035,
+				[
+					[
+						"Image Appearance",
+						"Fault",
+						".4"
+					]
+				]
+			],
+			[
+				227241.379310345,
+				[
+					[
+						"Image Appearance",
+						"Your",
+						".4"
+					]
+				]
+			],
+			[
+				227586.206896552,
+				[
+					[
+						"Image Appearance",
+						"Fault",
+						"0.4"
+					]
+				]
+			],
+			[
+				228362.068965518,
+				[
+					[
+						"Image Appearance",
+						"Your",
+						".4"
+					]
+				]
+			],
+			[
+				228879.310344828,
+				[
+					[
+						"Image Appearance",
+						"Fault",
+						".4"
+					]
+				]
+			],
+			[
+				229482.75862069,
+				[
+					[
+						"Image Appearance",
+						"Your",
+						".4"
+					]
+				]
+			],
+			[
+				230000,
+				[
+					[
+						"Image Appearance",
+						"Fault",
+						".4"
+					]
+				]
+			],
+			[
+				230517.241379311,
+				[
+					[
+						"Image Appearance",
+						"Your",
+						".4"
+					]
+				]
+			],
+			[
+				231034.482758621,
+				[
+					[
+						"Image Appearance",
+						"Fault",
+						".4"
+					]
+				]
+			],
+			[
+				231465.51724138,
+				[
+					[
+						"Image Appearance",
+						"Your",
+						".4"
+					]
+				]
+			],
+			[
+				231982.75862069,
+				[
+					[
+						"Image Appearance",
+						"Fault",
+						".4"
+					]
+				]
+			],
+			[
+				232500,
+				[
+					[
+						"Image Appearance",
+						"Your",
+						".4"
+					]
+				]
+			],
+			[
+				233017.241379311,
+				[
+					[
+						"Image Appearance",
+						"Fault",
+						".4"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"validScore": false,
+		"gfVersion": "gf none",
+		"bpm": 174,
+		"arrowSkin": "",
+		"needsVoices": false,
+		"song": "Better start Running"
+	}
+}

@@ -1,0 +1,50 @@
+{
+	"storyName": "Now you'll Never leave",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "VHS",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"You'll Never Leave",
+			"VHS SANS",
+			[
+				255,
+				0,
+				0
+			]
+		],
+		[
+			"Better Start Running",
+			"VHS SANS TWO",
+			[
+				120,
+				0,
+				0
+			]
+		],
+		[
+			"Inner Torment",
+			"VHS SANS THREE",
+			[
+				0,
+				0,
+				0
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Custom Week",
+	"hiddenUntilUnlocked": false
+}

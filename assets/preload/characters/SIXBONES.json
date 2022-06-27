@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 3,
+			"anim": "idle",
+			"indices": [],
+			"name": "sixbones idle"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "sixbones left"
+		},
+		{
+			"offsets": [
+				2,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "sixbones down"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "sixbones up"
+		},
+		{
+			"offsets": [
+				7,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "sixbones right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/sixbones",
+	"position": [
+		70,
+		-380
+	],
+	"healthicon": "sixbones",
+	"flip_x": false,
+	"healthbar_colors": [
+		180,
+		100,
+		0
+	],
+	"camera_position": [
+		40,
+		140
+	],
+	"sing_duration": 6.1,
+	"scale": 0.7
+}

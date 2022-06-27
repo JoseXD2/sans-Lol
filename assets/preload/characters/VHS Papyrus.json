@@ -1,0 +1,210 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				23,
+				3
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Right copy instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				-1
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Up instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				8,
+				-1
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				8,
+				0
+			],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "jghrue instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-11,
+				-23
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "SANS WAKE UP BITCH instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				0
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "upahgn instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-14,
+				-5
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "ISTG instance",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-10,
+				0
+			],
+			"anim": "idle-alt",
+			"fps": 24,
+			"name": "Bruh instance",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-10,
+				0
+			],
+			"anim": "idle-alt-2",
+			"fps": 24,
+			"name": "That's ma boi instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				0
+			],
+			"anim": "Sans lessgo",
+			"fps": 24,
+			"name": "Sans lessgo instance",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-10,
+				0
+			],
+			"anim": "Mad",
+			"fps": 24,
+			"name": "Even more Mad instance",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-10,
+				0
+			],
+			"anim": "more Mad",
+			"fps": 24,
+			"name": "gzezy instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				0
+			],
+			"anim": "Oh Sans you",
+			"fps": 24,
+			"name": "Oh Sans you Mother fuc",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-20,
+				-11
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "wfzt instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-4,
+				0
+			],
+			"anim": "anim",
+			"fps": 24,
+			"name": "idle anim",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-4,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idleALT",
+			"loop": false,
+			"name": "dead instance"
+		},
+		{
+			"offsets": [
+				-4,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "Idle instance"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Pap",
+	"position": [
+		-530,
+		-390
+	],
+	"healthicon": "papyrus",
+	"flip_x": false,
+	"healthbar_colors": [
+		171,
+		22,
+		74
+	],
+	"camera_position": [
+		180,
+		110
+	],
+	"sing_duration": 4,
+	"scale": 0.7
+}
